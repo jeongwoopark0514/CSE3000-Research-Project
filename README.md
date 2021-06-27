@@ -17,3 +17,5 @@ In order to run these classifiers, you need fastText model.
 
 For detailed download information, please check this link: https://fasttext.cc/docs/en/crawl-vectors.html
 
+### Data
+Data used for this text classification is not available, as it was not collected to be publicly shared.
